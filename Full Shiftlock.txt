@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Full-Shiftlock-System-Cl*ic-193460"))()

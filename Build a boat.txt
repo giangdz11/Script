@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Build-A-Boat-For-Treasure-OP-Auto-Farm-8k-An-Hour-198202"))()
